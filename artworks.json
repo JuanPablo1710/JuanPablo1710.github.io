@@ -1,15 +1,15 @@
 [
   {
-    "title" : "Capilla Sixtina",
+    "title" : "La creación de Adán",
     "author" : "Miguel Ángel",
     "src": "imagenes/obra1.jpg",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \\n Nullam et lorem leo. Aenean ornare ligula in neque varius tempor. Duis porttitor, ante at ultrices rutrum, nunc augue pulvinar lorem, vel iaculis enim tortor at libero. Sed porttitor leo vel feugiat porttitor. Quisque placerat urna non ante euismod, eu eleifend justo ultricies. In euismod feugiat mi, id ornare nisi pretium non. Pellentesque mollis consequat libero, sed egestas sapien viverra sit amet. Pellentesque fringilla sapien tellus, in ullamcorper justo bibendum a. Cras malesuada interdum neque in consequat. In feugiat quam ultrices nisl tincidunt, id maximus turpis eleifend. Nunc neque neque, imperdiet ac nisi et, laoreet consectetur risus."
+    "description": "\\nFICHA TÉCNICA:\\n\\nTítulo: La creación de Adán\\nAutor: Miguel Ángel Buonarroti\\nFecha de ejecución: Alrededor de 1511\\nTécnica: Fresco\\nEstilo: Renacimiento\\nDimensiones: 2.8 metros de alto × 5.7 metros de ancho\\nUbicación: Bóveda de la Capilla Sixtina, Ciudad del Vaticano, Roma\\n\\n\\nCOMENTARIO PERSONAL:\\n\\nDe la estética de esta obra, me gusta la composición, ya que se ven dos zonas claramente\\ndefinidas, la parte de la tierra con Adán y la parte del cielo con dios rodeado de ángeles;\\nademás, esta última parte, tiene una forma semejante a la de un cerebro humano, lo que me\\nparece un muy buen detalle y una muestra de la imaginación del autor. La idea de representar\\nla creación como este casi toque me parece muy significativo, me parece muy creativa la idea\\nde transmitir la creación como dios dando vida a Adán a través de este contacto, es como\\nrecibir el toque divino.\\n"
   },
   {
-    "title": "La Gioconda",
-    "author": "Leonardo da Vinci",
+    "title": "La Libertad guiando al pueblo",
+    "author": "Eugène Delacroix",
     "src": "imagenes/obra2.jpg",
-    "description": "También conocida como Mona Lisa.\\nFamosa por su sonrisa enigmática."
+    "description": "\\nFICHA TÉCNICA:\\n\\nTítulo: La Libertad guiando al pueblo\\nTítulo alternativo: El 28 de julio\\nAutor: Eugène Delacroix\\nAño de ejecución: 1830\\nTécnica: Óleo sobre lienzo\\nDimensiones: 260 cm × 325 cm\\nEstilo: Romanticismo\\nUbicación actual: Museo del Louvre, París\\n\\n\\nCOMENTARIO PERSONAL:\\n\\nEsta obra me parece una de las más simbólicas y representativas de los ideales de \\nnuestros sitemas sociales actuales, en esta obra, se ve a una mujer representando\\nla libertad con una bandera en alto guiando a la gente a la batalla. Esta pintura\\nrepresenta lo que fue la revolución francesa y la lucha para conseguri la libertad,\\nsiendo esto un antes y un después en las sociedades occidentales. En cuanto a la \\ncreatividad de la obra, un detalle que me gusta mucho es como se representa la\\nmaternidad de la libertad con un los pechos al descubierto, refleja de forma simple \\nel sentimiento de fraternidad que tenemos con la patria. Llama la atención además\\nel contraste entre los colores oscuros de la escena con los colores vibrantes de\\nla bandera francesa. Queda claro que el autor quisó mostrar la imaginación que el\\ntiene acerca de la idea de la revolución."
   },
   {
     "title": "El grito",
